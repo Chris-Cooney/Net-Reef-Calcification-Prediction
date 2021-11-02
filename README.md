@@ -113,3 +113,7 @@ This final section displays the change in net calcification of 9 individual reef
 
 <img src="net calcification change.png" width="900" height="800"/>
 Figure 2. Change in net calcification (grams/m^2/day) 2019-2061.
+
+# Remarks
+
+Full process layouts are described in notebooks linked to titles
