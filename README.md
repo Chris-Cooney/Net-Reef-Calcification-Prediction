@@ -17,7 +17,7 @@ The purpose of the following code is to adress the question:
 
 ### “What is the effect of changing temperature and pH levels on coral calcification in the Great Barrier Reef?”
 
-In order to do so this repositry provides a series of notebooks and functions to extract, forecast and predict net calcification data for reefs across the GBR to 2061
+In order to do so this repositry provides a series of notebooks and <a href="gnet_functions.py" target="_top"> functions </a> to extract, forecast and predict net calcification data for reefs across the GBR to 2061
 
 ## 1. <a href="1. Reef Data.ipynb" target="_top"> Reef Data</a>
 
