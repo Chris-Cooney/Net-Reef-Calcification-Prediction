@@ -63,7 +63,6 @@ def temp_PH(reef_lat, reef_lon, fname):
     """
 
 ```
-<img src="reef-param.png" width="900" height="800" white/> 
 
 
 ### 2.2. Forecasting of temperature and pH parameters
